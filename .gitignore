@@ -1,0 +1,8 @@
+# ignore the file with the API keys
+db_info.ini
+Employee_DirectPandas.ipynb
+Employee_DirectSQL.ipynb
+Employee_Metadata.ipynb
+Employee_Session.ipynb
+Original_Code.ipynb
+data
